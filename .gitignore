@@ -1,0 +1,10 @@
+#objective file
+
+*.o
+*.ko
+*.obj
+*.elf
+
+#execute file
+
+market
